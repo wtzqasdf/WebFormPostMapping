@@ -1,2 +1,3 @@
-# WebFormPostMapping
-WebForm post data mapping for ASP.NET
+# WebFormPostMapping-Sample
+The WebForm post data mapping for ASP.NET.    
+This is example for study.
